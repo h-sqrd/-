@@ -1,0 +1,59 @@
+.butterfly {
+  width:75px;
+  height: 60px;
+  position: absolute;
+  transition: 1s;
+}
+#butterfly1{
+  left: 370px;
+  top: 360px;
+}
+#butterfly2{
+  left: 165px;
+  top: 405px;
+}
+#butterfly3{
+  left: 600px;
+  top: 430px;
+}
+.foo {
+  width:30px;
+  height: 23px;
+  position: absolute;
+  transition: 0.7s;
+}
+#foo1{
+  left: 380px;
+  top: 210px;
+}
+#foo2{
+  left: 390px;
+  top: 300px;
+}
+#foo3{
+  left: 510px;
+  top: 300px;
+}
+#foo4{
+  left: 630px;
+  top: 230px;
+}
+#foo5{
+  left: 700px;
+  top: 290px;
+}
+.bg{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sentence{
+  position: absolute;
+  left: 30px;
+  top: 30px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgba(255,255,255,0.5);
+  padding: 10px
+}
